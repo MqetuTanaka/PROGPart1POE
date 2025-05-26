@@ -1,6 +1,8 @@
-﻿using CyberSecurityBotApp;
+﻿using System;
+using CyberSecurityBotApp;
+using CyberSecurityBotApp.CyberSecurityBotApp;
 
-namespace CyberSecurityBotApp
+namespace ProgAssignment
 {
     class Program
     {

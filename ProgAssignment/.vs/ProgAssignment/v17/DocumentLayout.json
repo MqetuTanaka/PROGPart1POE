@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\cybersecuritybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\cybersecuritybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\activitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\cybersecurityquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\securityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ActivityLogger.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\ActivityLogger.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\ActivityLogger.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\ActivityLogger.cs",
+              "RelativeToolTip": "ProgAssignment\\ActivityLogger.cs",
+              "ViewState": "AgIAAAgAAACAMzMzM7MawB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:54:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CybersecurityQuiz.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CybersecurityQuiz.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\CybersecurityQuiz.cs",
@@ -58,25 +75,24 @@
               "RelativeToolTip": "ProgAssignment\\CybersecurityQuiz.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAADwv4gAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:42:05.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T08:42:05.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CyberSecurityBot.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CyberSecurityBot.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\CyberSecurityBot.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CyberSecurityBot.cs",
               "RelativeToolTip": "ProgAssignment\\CyberSecurityBot.cs",
-              "ViewState": "AgIAANMAAAAAYGJmZmbGv+EAAACEAAAAAAAAAA==",
+              "ViewState": "AgIAAEwBAAAA4MzMzMz6vzwBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T08:18:18.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GreetingResponse.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GreetingResponse.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\GreetingResponse.cs",
@@ -88,19 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\Program.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\Program.cs",
               "RelativeToolTip": "ProgAssignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T07:37:34.607Z"
+              "WhenOpened": "2025-05-25T07:37:34.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GeneralResponse.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GeneralResponse.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\GeneralResponse.cs",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "QuizQuestion.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\QuizQuestion.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\QuizQuestion.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SecurityResponse.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\SecurityResponse.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\SecurityResponse.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BotResponce.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\BotResponce.cs",
               "RelativeDocumentMoniker": "ProgAssignment\\BotResponce.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProgAssignment.csproj",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\ProgAssignment.csproj",
               "RelativeDocumentMoniker": "ProgAssignment\\ProgAssignment.csproj",
