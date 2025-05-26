@@ -44,3 +44,17 @@ Run the Program: Execute the application to start interacting with the chatbot.
 Ask Questions: Type questions related to cybersecurity topics or general conversation.
 Listen to Audio: The bot plays sounds at specific interaction points (welcome, thinking).
 This code provides a structured and interactive way to learn about cybersecurity topics while enhancing the user experience with audio feedback.
+# PROGPart2POE
+Explanation:
+ActivityLogger Class:
+LogAction: Adds a new log entry and ensures the log does not exceed the maximum size.
+GetLog: Returns the entire log.
+GetLimitedLog: Returns the last limit entries of the log.
+Integration with CyberSecurityBot:
+The CyberSecurityBot class now includes an instance of ActivityLogger.
+The ProcessUserInput method logs user actions and checks for commands to display the activity log.
+The InitializeResponses method adds responses for viewing the activity log.
+Usage:
+When the user types "Show activity log" or "What have you done for me?", the chatbot will display the last 5 actions from the log.
+You can adjust the maxLogSize and limit parameters in the ActivityLogger class to change the log size and the number of entries displayed.
+This implementation ensures that the chatbot logs user interactions and provides a concise summary of recent actions when requested.
