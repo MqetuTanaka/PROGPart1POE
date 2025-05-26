@@ -1,0 +1,45 @@
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.csproj.AssemblyReference.cache
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.AssemblyInfoInputs.cache
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.AssemblyInfo.cs
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.exe
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.deps.json
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.runtimeconfig.json
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.pdb
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Asio.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Core.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Midi.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Wasapi.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.WinMM.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssi.467E9E06.Up2Date
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\refint\ProgAssignment.dll
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.pdb
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.genruntimeconfig.cache
+C:\Users\mqetu\source\repos\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ref\ProgAssignment.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.exe
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.deps.json
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\ProgAssignment.pdb
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Asio.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Core.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Midi.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.Wasapi.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\bin\Debug\net9.0\NAudio.WinMM.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.sourcelink.json
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssi.467E9E06.Up2Date
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\refint\ProgAssignment.dll
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.pdb
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ProgAssignment.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\New folder\PROGPart1POE\ProgAssignment\ProgAssignment\obj\Debug\net9.0\ref\ProgAssignment.dll

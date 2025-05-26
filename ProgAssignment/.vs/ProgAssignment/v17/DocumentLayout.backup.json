@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\cybersecuritybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\cybersecuritybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\cybersecurityquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\cybersecurityquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\securityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\securityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\greetingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\greetingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\botresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\botresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|c:\\users\\lab_services_student\\desktop\\new folder\\progpart1poe\\progassignment\\progassignment\\progassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A9FACF5-EA5E-4031-A493-F146E9FD25F9}|ProgAssignment\\ProgAssignment.csproj|solutionrelative:progassignment\\progassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CybersecurityQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CybersecurityQuiz.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\CybersecurityQuiz.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CybersecurityQuiz.cs",
+              "RelativeToolTip": "ProgAssignment\\CybersecurityQuiz.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv4gAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:42:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CyberSecurityBot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CyberSecurityBot.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\CyberSecurityBot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\CyberSecurityBot.cs*",
+              "RelativeToolTip": "ProgAssignment\\CyberSecurityBot.cs*",
+              "ViewState": "AgIAANMAAAAAYGJmZmbGv+EAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:18:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreetingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GreetingResponse.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\GreetingResponse.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GreetingResponse.cs",
+              "RelativeToolTip": "ProgAssignment\\GreetingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:15:08.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\Program.cs",
+              "RelativeToolTip": "ProgAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:37:34.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\GeneralResponse.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\GeneralResponse.cs",
+              "RelativeToolTip": "ProgAssignment\\GeneralResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:37:20.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\QuizQuestion.cs",
+              "RelativeToolTip": "ProgAssignment\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:45:20.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\SecurityResponse.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\SecurityResponse.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\SecurityResponse.cs",
+              "RelativeToolTip": "ProgAssignment\\SecurityResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:16:34.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BotResponce.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\BotResponce.cs",
+              "RelativeDocumentMoniker": "ProgAssignment\\BotResponce.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\BotResponce.cs",
+              "RelativeToolTip": "ProgAssignment\\BotResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:39:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgAssignment.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\ProgAssignment.csproj",
+              "RelativeDocumentMoniker": "ProgAssignment\\ProgAssignment.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\New folder\\PROGPart1POE\\ProgAssignment\\ProgAssignment\\ProgAssignment.csproj",
+              "RelativeToolTip": "ProgAssignment\\ProgAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T08:14:52.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
