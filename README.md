@@ -59,4 +59,10 @@ When the user types "Show activity log" or "What have you done for me?", the cha
 You can adjust the maxLogSize and limit parameters in the ActivityLogger class to change the log size and the number of entries displayed.
 This implementation ensures that the chatbot logs user interactions and provides a concise summary of recent actions when requested.
 # PROGPart3POE
-I prioritized creating a chatbot that feels genuinely conversational and lifelike. To keep interactions dynamic and engaging, I designed a robust system for generating varied responses. The chatbot now maintains contextual memory of past conversations, seamlessly referencing them when relevant to sustain a natural flow. I also integrated advanced sentiment analysis, enabling it to adjust its tone and behavior based on the user's emotional state whether they're expressing frustration, curiosity, or just chatting casually. Everything is built on a clean, scalable, and well-documented foundation that ensures long-term maintainability.
+I prioritized creating a chatbot that feels genuinely conversational and lifelike. 
+To keep interactions dynamic and engaging, I designed a robust system for generating varied responses. 
+The chatbot now maintains contextual memory of past conversations, 
+seamlessly referencing them when relevant to sustain a natural flow. 
+I also integrated advanced sentiment analysis, 
+enabling it to adjust its tone and behavior based on the user's emotional state whether they're expressing frustration, curiosity, or just chatting casually. 
+Everything is built on a clean, scalable, and well-documented foundation that ensures long-term maintainability.
